@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 Hi, I’m **Hao WU (吴昊)**, and you can also call me **Quentin**. I was born in 2000 and have an **ENFP** personality type.
 
 I received my bachelor’s degree from the **Beijing Institute of Technology** in June 2024, specializing in **Mechanical and Electronic Engineering with a focus on Robotics**.
