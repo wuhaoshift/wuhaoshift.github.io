@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Energetic Windmill: Computational insight into guanidine-based nitroazole-substituted compounds as energetic materials"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021-12-01-energetic-windmill
+excerpt: "This paper designs and evaluates a series of guanidine-based nitroazole-substituted energetic compounds with windmill-like structures using density functional theory."
+date: 2021-12-01
+venue: "Computational and Theoretical Chemistry"
+paperurl: "https://doi.org/10.1016/j.comptc.2021.113485"
+citation: 'Li, J.-R., Lu, Z.-J., Yang, J.-Q., Li, B.-K., Wu, J.-X., <b>Wu, H.</b>, &amp; Zhang, J.-G. (2021). &quot;Energetic Windmill: Computational insight into guanidine-based nitroazole-substituted compounds as energetic materials.&quot; <i>Computational and Theoretical Chemistry</i>, <i>1206</i>, 113485. https://doi.org/10.1016/j.comptc.2021.113485'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study presents a series of energetic materials with windmill-like structures based on guanidine and nitroazole. Density functional theory calculations were used to investigate their molecular structures, electronic properties, densities, heats of formation, detonation performance, and impact sensitivities.
+
+[Access the paper](https://doi.org/10.1016/j.comptc.2021.113485)
