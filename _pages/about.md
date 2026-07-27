@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About Me
 
 Hi, I’m **Hao WU (吴昊)**, and you can also call me **Quentin**. I was born in 2000 and have an **ENFP** personality type.
 
