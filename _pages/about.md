@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+
 author_profile: true
 redirect_from: 
   - /about/
@@ -40,11 +40,11 @@ I have also engaged in limited coin trading to support my studies and research. 
 
 I am always happy to communicate and exchange ideas with fellow collectors, researchers, and anyone interested in ancient Chinese numismatics.
 
-For more information, please see my **[CV](files/Hao_WU_CV.pdf)** or contact me via **[email](mailto:wuhao000323@163.com)**.
+For more information, please see my **[CV](files/26July_WU_Hao_CV.pdf)** or contact me via **[email](mailto:wuhao000323@163.com)**.
 
 
 # Education
-=================
+
 **University of Nottingham Ningbo China**
 
 * **MRes in Electrical and Electronic Engineering**, 2025.9-2026.11
@@ -57,7 +57,7 @@ Work Experience
 ======
 **The Eastern Institute of Technology Academician Dayong Jin's Group**
 
-March 2025.3-2025.9
+2025.3-2025.9
 
 Position: Engineer
 
@@ -66,7 +66,7 @@ Project: Organiod Intelligence
 
 **The Hong Kong Polytechnic University(PolyU) at the Department of Aeronautical and Aviation Engineering(AAE)**
 
-September 2024.9-2025.2
+2024.9-2025.2
 
 Position: Research Technical Assistant of AIMS group
 
